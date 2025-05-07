@@ -1,0 +1,51 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+*.egg-info/
+
+# Ignore model files and data
+*.h5
+*.keras
+*.ckpt
+*.pb
+*.tflite
+*.pkl
+*.joblib
+trained_model.keras
+
+# Ignore audio files from gTTS
+*.mp3
+temp_audio_*.mp3
+
+# Ignore dataset archives and folders
+*.zip
+*.tar.gz
+dataset/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system/OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Streamlit cache and config
+.streamlit/
