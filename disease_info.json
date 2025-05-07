@@ -1,0 +1,192 @@
+{
+    "Apple___Apple_scab": {
+        "Cause": "Fungal infection caused by *Venturia inaequalis*.",
+        "Prevention": "Prune trees to improve air circulation; remove fallen leaves.",
+        "Remedies": "Apply fungicides such as captan or mancozeb during early growth stages."
+    },
+    "Apple___Black_rot": {
+        "Cause": "Fungal disease caused by *Botryosphaeria obtusa*.",
+        "Prevention": "Remove mummified fruits and dead wood.",
+        "Remedies": "Use appropriate fungicides during early fruit development."
+    },
+    "Apple___Cedar_apple_rust": {
+        "Cause": "Caused by *Gymnosporangium juniperi-virginianae* fungus.",
+        "Prevention": "Remove nearby junipers which are alternate hosts.",
+        "Remedies": "Apply protective fungicide sprays during early spring."
+    },
+    "Apple___healthy": {
+        "Cause": "No disease symptoms detected.",
+        "Prevention": "Continue good agricultural practices.",
+        "Remedies": "None needed."
+    },
+    "Blueberry___healthy": {
+        "Cause": "No disease present.",
+        "Prevention": "Ensure soil pH and moisture are optimal.",
+        "Remedies": "No action needed."
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "Cause": "Fungal disease caused by *Podosphaera clandestina*.",
+        "Prevention": "Prune for air circulation; avoid excess nitrogen.",
+        "Remedies": "Apply sulfur-based fungicides or neem oil."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "Cause": "No disease detected.",
+        "Prevention": "Maintain balanced nutrients and monitor regularly.",
+        "Remedies": "None needed."
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "Cause": "Caused by the fungus *Cercospora zeae-maydis*.",
+        "Prevention": "Crop rotation and tilling crop residues.",
+        "Remedies": "Use fungicides like strobilurins if needed."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "Cause": "Fungal disease caused by *Puccinia sorghi*.",
+        "Prevention": "Use rust-resistant hybrids.",
+        "Remedies": "Apply fungicides at early rust stages."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "Cause": "Fungal infection by *Exserohilum turcicum*.",
+        "Prevention": "Use resistant varieties and crop rotation.",
+        "Remedies": "Apply fungicides at early signs of infection."
+    },
+    "Corn_(maize)___healthy": {
+        "Cause": "No disease symptoms observed.",
+        "Prevention": "Continue healthy cultivation practices.",
+        "Remedies": "None required."
+    },
+    "Grape___Black_rot": {
+        "Cause": "Caused by the fungus *Guignardia bidwellii*.",
+        "Prevention": "Prune and destroy infected shoots and leaves.",
+        "Remedies": "Apply fungicides like myclobutanil during growth."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "Cause": "Complex fungal disease caused by *Phaeomoniella chlamydospora* and others.",
+        "Prevention": "Avoid pruning during wet weather; sanitize tools.",
+        "Remedies": "No cure; remove infected vines and avoid water stress."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "Cause": "Caused by the fungus *Isariopsis clavispora*.",
+        "Prevention": "Improve air flow and remove plant debris.",
+        "Remedies": "Apply copper-based or mancozeb fungicides."
+    },
+    "Grape___healthy": {
+        "Cause": "No disease symptoms observed.",
+        "Prevention": "Maintain good cultural practices and monitor regularly.",
+        "Remedies": "None required."
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "Cause": "Bacterial infection caused by *Candidatus Liberibacter*.",
+        "Prevention": "Control psyllid vectors and use certified plants.",
+        "Remedies": "Remove infected trees; apply nutrient management."
+    },
+    "Peach___Bacterial_spot": {
+        "Cause": "Bacterial disease caused by *Xanthomonas campestris pv. pruni*.",
+        "Prevention": "Avoid overhead irrigation and plant resistant varieties.",
+        "Remedies": "Use copper-based bactericides."
+    },
+    "Peach___healthy": {
+        "Cause": "No signs of disease or pest infection.",
+        "Prevention": "Monitor tree health and avoid excess moisture.",
+        "Remedies": "None necessary."
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "Cause": "Bacterial disease caused by *Xanthomonas campestris pv. vesicatoria*.",
+        "Prevention": "Use certified seeds and rotate crops.",
+        "Remedies": "Apply copper-based sprays."
+    },
+    "Pepper,_bell___healthy": {
+        "Cause": "No disease detected.",
+        "Prevention": "Follow crop rotation and proper watering.",
+        "Remedies": "None needed."
+    },
+    "Potato___Early_blight": {
+        "Cause": "Fungal disease caused by *Alternaria solani*.",
+        "Prevention": "Use crop rotation and remove plant debris.",
+        "Remedies": "Apply fungicides like chlorothalonil or mancozeb."
+    },
+    "Potato___Late_blight": {
+        "Cause": "Caused by oomycete *Phytophthora infestans*.",
+        "Prevention": "Use resistant varieties and avoid overhead watering.",
+        "Remedies": "Apply systemic fungicides like metalaxyl."
+    },
+    "Potato___healthy": {
+        "Cause": "No disease detected.",
+        "Prevention": "Maintain crop health with good care and clean practices.",
+        "Remedies": "None needed."
+    },
+    "Raspberry___healthy": {
+        "Cause": "Healthy plant with no disease symptoms.",
+        "Prevention": "Ensure proper spacing and regular inspection.",
+        "Remedies": "No treatment needed."
+    },
+    "Soybean___healthy": {
+        "Cause": "Healthy plant.",
+        "Prevention": "Use certified seeds and follow crop rotation.",
+        "Remedies": "None."
+    },
+    "Squash___Powdery_mildew": {
+        "Cause": "Fungal disease caused by *Erysiphe cichoracearum*.",
+        "Prevention": "Plant in full sun and avoid leaf wetting.",
+        "Remedies": "Apply potassium bicarbonate or neem oil."
+    },
+    "Strawberry___Leaf_scorch": {
+        "Cause": "Fungal disease caused by *Diplocarpon earlianum*.",
+        "Prevention": "Avoid overcrowding; water at soil level.",
+        "Remedies": "Remove infected leaves; apply fungicides if severe."
+    },
+    "Strawberry___healthy": {
+        "Cause": "No visible disease or infection.",
+        "Prevention": "Ensure good sunlight, spacing, and drainage.",
+        "Remedies": "No treatment necessary."
+    },
+    "Tomato___Bacterial_spot": {
+        "Cause": "Bacterial disease caused by *Xanthomonas campestris pv. vesicatoria*.",
+        "Prevention": "Use disease-free seeds; avoid overhead watering.",
+        "Remedies": "Copper-based sprays can reduce severity; remove infected leaves."
+    },
+    "Tomato___Early_blight": {
+        "Cause": "Fungal disease caused by *Alternaria solani*.",
+        "Prevention": "Crop rotation and adequate spacing between plants.",
+        "Remedies": "Use fungicides such as chlorothalonil."
+    },
+    "Tomato___Late_blight": {
+        "Cause": "Oomycete disease caused by *Phytophthora infestans*.",
+        "Prevention": "Use resistant varieties and avoid excessive moisture.",
+        "Remedies": "Apply fungicides like mancozeb or cymoxanil."
+    },
+    "Tomato___Leaf_Mold": {
+        "Cause": "Caused by fungus *Passalora fulva*.",
+        "Prevention": "Ensure good ventilation and avoid leaf wetting.",
+        "Remedies": "Use fungicides like copper or mancozeb."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "Cause": "Fungal infection caused by *Septoria lycopersici*.",
+        "Prevention": "Provide good air circulation and avoid leaf wetting.",
+        "Remedies": "Apply fungicides like chlorothalonil and remove lower leaves."
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "Cause": "Infestation by *Tetranychus urticae* (spider mites).",
+        "Prevention": "Keep plants well-watered and dust-free.",
+        "Remedies": "Use miticides or neem oil; introduce predatory mites."
+    },
+    "Tomato___Target_Spot": {
+        "Cause": "Caused by *Corynespora cassiicola* fungus.",
+        "Prevention": "Crop rotation and sanitation practices.",
+        "Remedies": "Use fungicides like azoxystrobin or chlorothalonil."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "Cause": "Viral infection transmitted by whiteflies.",
+        "Prevention": "Control whitefly population; use resistant varieties.",
+        "Remedies": "Remove infected plants; use reflective mulches and insect-proof nets."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "Cause": "Viral disease spread via contact or contaminated tools.",
+        "Prevention": "Disinfect tools and avoid smoking near plants.",
+        "Remedies": "No cure; remove and destroy infected plants."
+    },
+    "Tomato___healthy": {
+        "Cause": "No disease detected.",
+        "Prevention": "Continue good horticultural practices.",
+        "Remedies": "None needed."
+    }
+}
